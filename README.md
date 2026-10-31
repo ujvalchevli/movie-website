@@ -12,4 +12,4 @@ Website                                            telegram
 9 https://aethoplex.aethoflix.world/                                                 (live tv available) 
 10 https://beta.way2movies.live/                   https://t.me/Way2MoviesFun
 11 https://theogpiratebot.online/                  https://t.me/+Jlk7wxnZJZtlOTQ1    (live tv available) 
-12 https://m1.multimovies.courses/                 https://telegram.me/+8Is7Ezz56fNkZDZl
+12 https://m1.multimovies.courses/                 https://telegram.me/+8Is7Ezz56fNkZDZl (https://multimovies.wtf/)

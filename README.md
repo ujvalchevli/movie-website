@@ -11,3 +11,4 @@ Website                                            telegram
 8 https://redflix.one/                             https://t.me/+oVUzXIq2NtpiMGVl
 9 https://aethoplex.aethoflix.world/                                                 (live tv available) 
 10 https://beta.way2movies.live/                   https://t.me/Way2MoviesFun
+11 https://theogpiratebot.online/                  https://t.me/+Jlk7wxnZJZtlOTQ1

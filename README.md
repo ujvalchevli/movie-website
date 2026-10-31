@@ -36,5 +36,5 @@ A curated list of streaming websites and their Telegram channels.
 ## Quick notes
 
 - Live TV is available on several platforms.
-- Some websites also include a virtual theater option.
-- Telegram links are included for quick access to support or updates.
+- Some sites also provide a virtual theater.
+- Telegram links are included for support and updates.

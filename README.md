@@ -6,8 +6,8 @@ A curated list of streaming websites and their Telegram channels.
 
 | # | Website | Telegram | Notes |
 |---:|---|---|---|
-| 1 | [almostott.aethoflix.world](https://almostott.aethoflix.live/) | [t.me/almostott](https://t.me/almostott) | Live TV available |
-| 2 | [aethoflix.world](https://aethoflix.live/) | [t.me/aethosupport](https://t.me/aethosupport) | Live TV available; Virtual theater available |
+| 1 | [almostott.aethoflix.world](https://almostott.aethoflix.world/) | [t.me/almostott](https://t.me/almostott) | Live TV available |
+| 2 | [aethoflix.world](https://aethoflix.world/) | [t.me/aethosupport](https://t.me/aethosupport) | Live TV available; Virtual theater available |
 | 3 | [bingr.one](https://bingr.one/) | [t.me/bingrone](https://t.me/bingrone) |  |
 | 4 | [gaiaflix.xyz](https://gaiaflix.xyz/) | — |  |
 | 5 | [thugtv.online](https://thugtv.online/) | [t.me/thugtvonline](https://t.me/thugtvonline) |  |

@@ -18,6 +18,8 @@ A curated list of streaming websites and their Telegram channels.
 | 10 | [beta.way2movies.live](https://beta.way2movies.live/) | [t.me/Way2MoviesFun](https://t.me/Way2MoviesFun) |  |
 | 11 | [theogpiratebot.online](https://theogpiratebot.online/) | [t.me/+Jlk7wxnZJZtlOTQ1](https://t.me/+Jlk7wxnZJZtlOTQ1) | Live TV available |
 | 12 | [m1.multimovies.courses](https://m1.multimovies.courses/) | [telegram.me/+8Is7Ezz56fNkZDZl](https://telegram.me/+8Is7Ezz56fNkZDZl) | [multimovies.wtf](https://multimovies.wtf/) |
+| 13 | [vivarium.su](https://vivarium.su/) | — |  |
+| 14 | [7movies.ac](https://7movies.ac/) | — |  |
 
 ---
 
